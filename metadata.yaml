@@ -1,0 +1,24 @@
+_repo: Veera-Vorontzoff-b-Kertomus-venalaisesta-elamasta_71802
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kovalevsky, Sonja
+    gutenberg_agent_id: '56404'
+    url: http://www.gutenberg.org/2009/agents/56404
+description: ''
+gutenberg_issued: '2023-10-04'
+identifiers:
+  gutenberg: '71802'
+language: fi
+pgterms:marc905: 20230413121554kovalevsky
+pgterms:marc906: '1913'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aTampere :$bIsak Julinin Kustannusliike, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Veera Vorontzoff : $b Kertomus venäläisestä elämästä'
+url: http://www.gutenberg.org/ebooks/71802
