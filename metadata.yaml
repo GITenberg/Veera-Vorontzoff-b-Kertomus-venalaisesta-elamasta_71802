@@ -1,11 +1,16 @@
 _repo: Veera-Vorontzoff-b-Kertomus-venalaisesta-elamasta_71802
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kovalevsky, Sonja
     gutenberg_agent_id: '56404'
     url: http://www.gutenberg.org/2009/agents/56404
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71802#Veera-Vorontzoff-b-Kertomus-venalaisesta-elamasta
 gutenberg_issued: '2023-10-04'
 identifiers:
   gutenberg: '71802'
